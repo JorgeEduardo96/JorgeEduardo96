@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Jorge :smile:</h1>
+<h1 align="center">Hi, I'm Jorge! :smile:</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
 - 📫 How to reach me **jorgeeduardojr96@gmail.com**
